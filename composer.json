@@ -1,5 +1,5 @@
 {
-    "name": "smknstd/laravel-kms-encryption",
+    "name": "nadirabbas/laravel-kms-encryption",
     "description": "Replace Laravel's built-in encryption with an encryption based on AWS KMS",
     "keywords": [
         "laravel",
@@ -19,7 +19,6 @@
     "require": {
         "php": "^8.0",
         "aws/aws-sdk-php": "^3.191",
-        "illuminate/contracts": "^8.37",
         "spatie/laravel-package-tools": "^1.4.3"
     },
     "require-dev": {
